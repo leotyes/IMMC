@@ -1,0 +1,7 @@
+/.venv
+/.venv/*
+/Drafts
+/Drafts/*
+.idea
+.idea/*
+GeoTIFFs/rainfall.tif

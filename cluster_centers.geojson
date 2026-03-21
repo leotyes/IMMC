@@ -1,0 +1,4997 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1800126.049729704,
+          -2163106.3703137143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1627973.8758166605,
+          -2157733.699506261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1705880.1258166605,
+          -2168238.163791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1662473.8758166607,
+          -2139061.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1607473.8758166605,
+          -2181019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1766510.9128536973,
+          -2183204.59897716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1608973.8758166605,
+          -2163144.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1652873.8758166605,
+          -2159419.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1636973.8758166605,
+          -2138733.699506261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1814923.8758166605,
+          -2168919.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1725166.1835089682,
+          -2144096.336868898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1803029.431372216,
+          -2188241.6360141975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1625631.7705535025,
+          -2172861.5190551328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1681110.2394530242,
+          -2123473.9592465204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1644382.9667257515,
+          -2147655.7774283383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1856622.0239648086,
+          -2150019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1646089.260432045,
+          -2123365.567638129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1639616.7329595177,
+          -2173686.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1717837.512180297,
+          -2170201.231973793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1613473.8758166605,
+          -2173019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1788273.8758166605,
+          -2180499.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1823792.0576348423,
+          -2195383.0501556112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1656955.3572981418,
+          -2168167.561940123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1616598.8758166605,
+          -2159519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 24
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1622704.6450474297,
+          -2148404.0291765905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1691407.2091499937,
+          -2161152.747125308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1769251.6535944382,
+          -2170723.117495679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1634348.8758166605,
+          -2151144.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1732217.4655602502,
+          -2124045.054817616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1642826.816993131,
+          -2161019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1658049.633392418,
+          -2114322.4440950053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1605598.8758166605,
+          -2170144.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 32
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1722161.3758166605,
+          -2158644.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1654348.8758166605,
+          -2144394.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1734473.8758166605,
+          -2147019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1829273.8758166605,
+          -2153919.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1601696.0980388827,
+          -2161019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1672362.7647055492,
+          -2120130.5249030865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1621807.209149994,
+          -2165936.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1756991.1171959708,
+          -2169502.1724126646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1812399.8017425863,
+          -2184834.22860679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1656858.4912012757,
+          -2155788.644561206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1666473.8758166607,
+          -2132162.2709348323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1777045.304388089,
+          -2183983.699506261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1803337.512180297,
+          -2172473.9592465204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1794751.6535944382,
+          -2175297.191569753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1640928.4212712059,
+          -2130383.0501556112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1713631.7705535025,
+          -2161861.5190551328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1648110.2394530242,
+          -2169110.3228828837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1611140.5424833272,
+          -2153936.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1638223.8758166607,
+          -2150436.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1613557.209149994,
+          -2183352.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1659223.8758166607,
+          -2127352.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1644089.260432045,
+          -2154404.0291765905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1627089.260432045,
+          -2161404.0291765905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1614188.1615309461,
+          -2166019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1637616.7329595177,
+          -2144305.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1670973.8758166605,
+          -2138908.302680864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1637918.320261105,
+          -2159741.6360141975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1641415.052287249,
+          -2139842.94320374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1695500.9028436877,
+          -2157073.467846029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1629243.1065858912,
+          -2141634.79840736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1652807.2091499937,
+          -2150797.191569753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1700073.8758166605,
+          -2168162.2709348323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 64
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1823122.5244653092,
+          -2156424.8191973804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1722579.1389745553,
+          -2178072.0453709224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1790759.590102375,
+          -2167067.032839594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1634428.4212712059,
+          -2172746.6865192475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 68
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1675696.0980388825,
+          -2130056.450829012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1620473.8758166607,
+          -2177852.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1782584.9869277715,
+          -2189074.969347531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1651894.9284482393,
+          -2174703.6243182905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1604331.0186738034,
+          -2177305.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1701723.8758166605,
+          -2159669.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1614973.8758166607,
+          -2176852.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1685348.8758166607,
+          -2126352.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1733399.8017425863,
+          -2155056.450829012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1805140.5424833272,
+          -2161102.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1616688.1615309461,
+          -2150805.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1790473.8758166605,
+          -2185969.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 80
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1665116.7329595177,
+          -2148840.8423634036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1826110.2394530242,
+          -2186746.6865192475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1757041.443384228,
+          -2180073.467846029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1623928.4212712059,
+          -2159655.7774283383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 84
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1608598.8758166605,
+          -2175894.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 85
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1611473.8758166605,
+          -2161519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1825286.3758166605,
+          -2166894.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1627973.8758166605,
+          -2151019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1634521.4948642796,
+          -2163828.937601499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1649012.337355122,
+          -2162634.79840736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1649107.2091499937,
+          -2132652.747125308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 91
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1611348.8758166605,
+          -2167894.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1631073.8758166605,
+          -2156319.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1767589.260432045,
+          -2188711.721484283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1605873.8758166605,
+          -2165319.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 95
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1639423.8758166605,
+          -2169419.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1663419.8217626065,
+          -2159992.3867649483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 97
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1618473.8758166605,
+          -2170219.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1736950.066292851,
+          -2136305.1280776896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1646110.2394530242,
+          -2144564.8683374296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1794842.2968692922,
+          -2179598.361160396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1726826.816993131,
+          -2164490.0020272695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1606382.9667257515,
+          -2158655.7774283383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1623073.8758166605,
+          -2153719.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1811307.209149994,
+          -2179138.4614110226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1643973.8758166605,
+          -2173519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1633473.8758166605,
+          -2135669.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1818723.8758166605,
+          -2160819.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 108
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1646057.209149994,
+          -2157269.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1652933.33527612,
+          -2115668.0624406235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1631473.8758166605,
+          -2144819.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1716014.416357201,
+          -2178397.7921703532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1787973.8758166605,
+          -2174655.7774283383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1618928.4212712059,
+          -2162837.5956101567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1814992.394335179,
+          -2188908.302680864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1722564.7849075696,
+          -2152928.504701066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1654701.1485439332,
+          -2122519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1762997.6853404702,
+          -2169400.3661729274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1636655.6939984786,
+          -2153746.6865192475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1717928.4212712059,
+          -2164883.0501556112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1768973.8758166605,
+          -2176901.7667331514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 121
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1807283.3996261845,
+          -2169876.5566491177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1714436.8387796234,
+          -2156241.636014197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1602655.6939984786,
+          -2155928.504701066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1660473.8758166605,
+          -2146372.354968446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 125
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1803680.7723683845,
+          -2180984.9310333543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 126
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1626251.6535944382,
+          -2168519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1648673.8758166605,
+          -2151019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1651421.244237713,
+          -2141282.5716867116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 129
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1795161.3758166605,
+          -2170081.913791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1840911.3758166605,
+          -2152613.163791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1647064.7849075696,
+          -2137428.504701066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1600616.7329595177,
+          -2163305.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1630073.8758166605,
+          -2153319.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1666223.8758166605,
+          -2120363.163791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1652223.8758166607,
+          -2163686.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1811473.8758166605,
+          -2172519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1617655.6939984786,
+          -2154837.5956101567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 138
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1617807.209149994,
+          -2183102.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1793443.5727863573,
+          -2190898.2016707626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1608627.7219705065,
+          -2169557.8753304365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1720515.5424833272,
+          -2173394.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1641407.2091499937,
+          -2148152.747125308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1657579.1389745553,
+          -2159440.466423554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1777630.1258166605,
+          -2189769.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1633110.2394530242,
+          -2141928.504701066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1636715.2551270053,
+          -2127122.8620678373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1610297.4052284253,
+          -2185960.5902625634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 148
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1680299.9627731822,
+          -2127715.065965888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 149
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1688779.431372216,
+          -2130602.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1779214.6165574011,
+          -2179019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1624873.8758166605,
+          -2141619.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1613292.0576348423,
+          -2169837.5956101567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1611473.8758166605,
+          -2180019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1630842.2968692922,
+          -2167019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1616000.1916061342,
+          -2186808.8874761853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 156
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1629584.9869277715,
+          -2147686.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 157
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1605348.8758166605,
+          -2172769.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1652935.414278199,
+          -2147634.79840736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1657233.8758166605,
+          -2137939.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1727283.3996261845,
+          -2152971.794744356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1641089.260432045,
+          -2152404.0291765905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1810577.3240925225,
+          -2160536.6551712854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1613473.8758166605,
+          -2163305.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1762188.1615309461,
+          -2187912.2709348323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1651140.542483327,
+          -2153130.5249030865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 166
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1669844.2461870308,
+          -2125426.821199382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1611473.8758166605,
+          -2157219.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1713409.3596876282,
+          -2174019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1710223.8758166605,
+          -2170555.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 170
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1641786.3758166605,
+          -2165894.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1695473.8758166605,
+          -2163969.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 172
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1649743.1065858912,
+          -2126673.2599458215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 173
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1637418.320261105,
+          -2133019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1798765.5424833272,
+          -2182644.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1623473.8758166607,
+          -2163186.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1646988.1615309461,
+          -2115705.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 177
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1660411.3758166605,
+          -2164738.163791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 178
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1816773.8758166605,
+          -2175144.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1632807.2091499937,
+          -2159486.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 180
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1755060.0827132121,
+          -2174295.2758609406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 181
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1608598.8758166605,
+          -2166144.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 182
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1731423.8758166605,
+          -2150669.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1649564.7849075696,
+          -2158383.0501556112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1705908.658425356,
+          -2158628.109444149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1772362.7647055492,
+          -2186741.6360141975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1798407.2091499937,
+          -2174286.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1690798.200140985,
+          -2124695.0894676507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 188
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1735584.9869277715,
+          -2140824.969347531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 189
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1620616.7329595177,
+          -2172947.9852205464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1617655.6939984786,
+          -2179837.5956101567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1642512.337355122,
+          -2178250.1830227445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1659781.5681243527,
+          -2134134.79840736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1655545.304388089,
+          -2152447.9852205464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1717826.816993131,
+          -2160490.0020272695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 195
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1665918.320261105,
+          -2136352.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1639307.209149994,
+          -2155519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 197
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1616273.8758166605,
+          -2172519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1602223.8758166607,
+          -2166352.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 199
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1659973.8758166605,
+          -2150574.969347531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 200
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1808790.948987392,
+          -2191019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 201
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1622073.8758166605,
+          -2169419.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1760990.0048489186,
+          -2164890.3815339105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 203
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1763116.7329595177,
+          -2178555.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1820532.6993460723,
+          -2164666.4726155046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 205
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1664860.9725908542,
+          -2154309.7363726203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 206
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1618082.5714688343,
+          -2147106.3703137143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1624273.8758166605,
+          -2151019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1694973.8758166605,
+          -2169250.1830227445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 209
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1864673.8758166605,
+          -2145669.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 210
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1782513.8758166605,
+          -2182779.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 211
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1613140.5424833272,
+          -2149495.604268166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1643378.6377214226,
+          -2135114.6518872133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 213
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1634473.8758166605,
+          -2145219.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1807312.5854940799,
+          -2184600.0589532657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1802616.7329595177,
+          -2167209.889982451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1708297.4052284253,
+          -2162254.707909622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1643557.209149994,
+          -2142852.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1698737.0337113973,
+          -2161861.5190551328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 219
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1625759.590102375,
+          -2178352.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 220
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1645807.2091499937,
+          -2166908.302680864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 221
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1640840.542483327,
+          -2124552.747125308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1675325.7276685121,
+          -2124686.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1773256.4845123126,
+          -2179715.065965888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 224
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1624837.512180297,
+          -2156473.9592465204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1710081.0186738034,
+          -2157233.699506261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1722517.3540775299,
+          -2167932.4572702358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1641858.4912012757,
+          -2157634.79840736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1618673.8758166605,
+          -2166519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1606273.8758166605,
+          -2154219.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 230
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1829429.431372216,
+          -2192352.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1606473.8758166605,
+          -2162019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 232
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1657973.8758166605,
+          -2142655.7774283383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1608584.9869277715,
+          -2156686.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1604807.2091499937,
+          -2180352.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1610807.2091499937,
+          -2172463.8582364195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1663865.1801644864,
+          -2143932.4572702358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 237
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1652251.6535944382,
+          -2170519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1722382.9667257515,
+          -2162792.141064702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 239
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1673473.8758166605,
+          -2135019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 240
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1798816.7329595175,
+          -2192476.5566491177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 241
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1614473.8758166605,
+          -2153819.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1653312.5854940799,
+          -2178761.349275846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1621223.8758166607,
+          -2156602.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1613473.8758166602,
+          -2189723.117495679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1701856.228757837,
+          -2154872.354968446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1820918.320261105,
+          -2189436.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1656673.8758166605,
+          -2148152.747125308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 248
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1635323.8758166605,
+          -2168169.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 249
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1602473.8758166605,
+          -2170746.6865192475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 250
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1663500.9028436877,
+          -2115370.7651433265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 251
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1632973.8758166607,
+          -2139019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 252
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1629947.5600271868,
+          -2171282.5716867116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1625173.8758166605,
+          -2146319.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1786521.4948642796,
+          -2184781.31855388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1791223.8758166605,
+          -2177519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1670807.209149994,
+          -2130067.032839594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 257
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1630411.3758166605,
+          -2162206.913791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 258
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1817862.7647055492,
+          -2183436.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 259
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1643873.8758166605,
+          -2169619.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 260
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1635584.9869277715,
+          -2148686.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 261
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1633473.8758166605,
+          -2154219.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1635473.8758166607,
+          -2157186.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1791973.8758166605,
+          -2172019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1640550.7988935835,
+          -2143942.490715052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 265
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1631598.8758166605,
+          -2150894.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1788079.936422721,
+          -2190898.2016707626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1823421.244237713,
+          -2161808.8874761853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 268
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1656853.186161488,
+          -2173364.241378182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 269
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1650140.5424833272,
+          -2120602.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1615473.8758166605,
+          -2161733.699506261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 271
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1722377.101623112,
+          -2147825.8654048783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1653012.337355122,
+          -2155865.567638129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1806723.8758166605,
+          -2164969.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1618584.9869277715,
+          -2158130.5249030865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 275
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1726095.4974382822,
+          -2172127.521900083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 276
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1759988.1615309461,
+          -2184047.9852205464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1646928.4212712059,
+          -2160383.0501556112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1665177.579520364,
+          -2126686.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1620073.8758166605,
+          -2152086.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 280
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1617973.8758166607,
+          -2175519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1806577.3240925225,
+          -2175846.9999988717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1626616.7329595177,
+          -2165090.8423634036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 283
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1729577.3240925225,
+          -2158226.310343699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1654650.346404896,
+          -2131431.1784978574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1793723.8758166605,
+          -2183669.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1639616.7329595177,
+          -2136233.699506261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1728223.8758166605,
+          -2147969.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1649704.6450474297,
+          -2144634.79840736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1647348.8758166605,
+          -2153894.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1612029.431372216,
+          -2175686.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1662426.2567690415,
+          -2130828.937601499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 292
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1622382.9667257515,
+          -2181473.9592465204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1660140.542483327,
+          -2154852.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 294
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1815019.330362115,
+          -2164155.7774283383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1607348.8758166605,
+          -2178144.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1835944.4640519547,
+          -2154048.825556681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1644973.8758166607,
+          -2151019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1652666.1835089682,
+          -2137327.1060996675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1600110.2394530242,
+          -2158473.9592465204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1636473.8758166605,
+          -2177057.8753304365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1647362.7647055492,
+          -2147686.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1616473.8758166605,
+          -2164519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1832057.209149994,
+          -2157644.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1703523.8758166605,
+          -2164119.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1633012.337355122,
+          -2131057.8753304365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1797973.8758166605,
+          -2167019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 307
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1636837.512180297,
+          -2141928.504701066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1614573.8758166605,
+          -2180219.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1604723.8758166605,
+          -2168019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1609348.8758166605,
+          -2159894.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1604557.209149994,
+          -2174936.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1737183.5532360154,
+          -2151019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 313
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1670036.3758166605,
+          -2134769.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 314
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1638767.9934637193,
+          -2163725.296144916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1800213.006251443,
+          -2177628.109444149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1649473.8758166605,
+          -2155305.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 317
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1610348.8758166605,
+          -2182144.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1679273.8758166605,
+          -2119719.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 319
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1647473.8758166605,
+          -2178201.231973793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1610723.8758166605,
+          -2178019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1655532.6993460723,
+          -2163019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1645193.8758166605,
+          -2129659.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1765235.7805785653,
+          -2173638.4614110226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1787436.8387796234,
+          -2170019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1714473.8758166605,
+          -2167519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1771052.8231850816,
+          -2183177.308528817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1735730.2860730707,
+          -2120993.772766334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 328
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1772789.6652903447,
+          -2190440.466423554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 329
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1816446.0980388827,
+          -2193797.191569753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 330
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1608348.8758166605,
+          -2173144.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1799473.8758166605,
+          -2170842.94320374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1648973.8758166605,
+          -2165819.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1626973.8758166605,
+          -2154019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 334
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1658223.8758166607,
+          -2119644.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1783755.1258166605,
+          -2176456.913791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1614673.8758166605,
+          -2157019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 337
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1682840.542483327,
+          -2131952.747125308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 338
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1628696.0980388827,
+          -2138074.969347531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 339
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1822209.1699343077,
+          -2172225.296144916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 340
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1603696.0980388827,
+          -2158686.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 341
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1609292.0576348423,
+          -2151564.8683374296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1690659.0610018456,
+          -2166908.302680864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1667084.9869277715,
+          -2140686.080458642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1620837.512180297,
+          -2160564.8683374296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1603696.0980388827,
+          -2162908.302680864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 346
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1686390.542483327,
+          -2120352.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1652110.2394530242,
+          -2167110.3228828837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 348
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1797430.3975557908,
+          -2187106.3703137143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 349
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1615973.8758166605,
+          -2168419.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1613473.8758166605,
+          -2159733.699506261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1860025.5999545916,
+          -2146812.517240251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 352
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1775439.3930580397,
+          -2175536.6551712854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1719029.431372216,
+          -2156130.5249030865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 354
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1607292.0576348423,
+          -2184110.3228828837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1647973.8758166605,
+          -2172519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1627928.4212712059,
+          -2144655.7774283383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1650029.431372216,
+          -2148463.8582364195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1642570.6500102088,
+          -2119406.5105661685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1654473.8758166605,
+          -2126519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 360
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1760393.8758166605,
+          -2173819.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1645140.5424833272,
+          -2163769.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 362
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1626973.8758166605,
+          -2148644.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 363
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1622973.8758166607,
+          -2175519.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1827740.542483327,
+          -2160686.0804586415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 365
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1661273.8758166605,
+          -2122819.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 366
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1717667.4242037574,
+          -2151116.187985523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 367
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1710894.9284482393,
+          -2165124.67694987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 368
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1611348.8758166605,
+          -2165144.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 369
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1725251.6535944382,
+          -2157408.302680864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 370
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1794640.542483327,
+          -2165019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 371
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1646831.0186738034,
+          -2141090.8423634036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 372
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1630166.1835089682,
+          -2176057.8753304365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 373
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1637973.8758166605,
+          -2146819.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 374
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1818950.066292851,
+          -2168447.9852205464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1632473.8758166605,
+          -2148019.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1677577.3240925225,
+          -2135088.3793092165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1674938.1615309461,
+          -2140876.5566491177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 378
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1766515.5424833272,
+          -2166102.7471253085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 379
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1730652.447245232,
+          -2143197.9852205464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 380
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1670009.5901023748,
+          -2144305.128077689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1815593.8758166605,
+          -2158459.413791975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1810792.0576348423,
+          -2166428.504701066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "cluster_id": 383
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1621235.7805785653,
+          -2144067.032839594
+        ]
+      }
+    }
+  ]
+}

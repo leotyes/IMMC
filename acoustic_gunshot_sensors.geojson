@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "acoustic_gunshot_sensors",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "sensor_id": 1 }, "geometry": { "type": "Point", "coordinates": [ 1610473.875816660467535, -2164019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 2 }, "geometry": { "type": "Point", "coordinates": [ 1609473.875816660467535, -2164019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 3 }, "geometry": { "type": "Point", "coordinates": [ 1610473.875816660467535, -2163019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 4 }, "geometry": { "type": "Point", "coordinates": [ 1612473.875816660467535, -2163019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 5 }, "geometry": { "type": "Point", "coordinates": [ 1611473.875816660467535, -2163019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 6 }, "geometry": { "type": "Point", "coordinates": [ 1612473.875816660467535, -2164019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 7 }, "geometry": { "type": "Point", "coordinates": [ 1609473.875816660467535, -2163019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 8 }, "geometry": { "type": "Point", "coordinates": [ 1611473.875816660467535, -2164019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 9 }, "geometry": { "type": "Point", "coordinates": [ 1613473.875816660467535, -2163019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 10 }, "geometry": { "type": "Point", "coordinates": [ 1610473.875816660467535, -2165019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 11 }, "geometry": { "type": "Point", "coordinates": [ 1613473.875816660467535, -2164019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 12 }, "geometry": { "type": "Point", "coordinates": [ 1608473.875816660467535, -2164019.413791975006461 ] } },
+{ "type": "Feature", "properties": { "sensor_id": 13 }, "geometry": { "type": "Point", "coordinates": [ 1611473.875816660467535, -2162019.413791975006461 ] } }
+]
+}
