@@ -162,7 +162,13 @@ def run_simulation():
     poacher_detected = False
     fire_detected = False
     in_area = True
-    ranger_states = [RangerState(ranger_routes[rid], ranger_speed, dt) for rid in ranger_ids]
+    active_ranger_ids = ranger_ids.copy()
+    num_to_remove = int(0.1 * len(active_ranger_ids))
+    rangers_removed = random.sample(active_ranger_ids, num_to_remove)
+    for rid in rangers_removed:
+        active_ranger_ids.remove(rid)
+
+    ranger_states = [RangerState(ranger_routes[rid], ranger_speed, dt) for rid in active_ranger_ids]
     if event_type == 'poacher':
         poacher = spawn_poacher(risk_poaching_map)
         while True:

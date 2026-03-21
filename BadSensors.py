@@ -99,10 +99,11 @@ def move_fire(fire_pos):
 def sensor_detect_poacher(poacher_pos, ranger_positions):
     for sensor_pos in acoustic_sensor_positions:
         if math.dist(poacher_pos, sensor_pos) <= 1500:
-            return True
+            if random.random() < 0.85:
+                return True
     for sensor_pos in normal_camera_positions:
         if math.dist(poacher_pos, sensor_pos) <= 1000:
-            if random.random() < 0.3:
+            if random.random() < 0.2:
                 return True
     for ranger_pos in ranger_positions:
         if math.dist(poacher_pos, ranger_pos) <= ranger_catch_radius:
@@ -192,9 +193,13 @@ def run_simulation():
         ranger_time = max(0, (min_ranger_dist - ranger_detect_fire_radius) / (ranger_speed + fire_move_dist))
 
         if sensor_time < ranger_time:
-            print(f"{sensor_time:.1f} seconds (sensor)")
-            fire_results.append(sensor_time)
-            return sensor_time
+            if random.random() < 0.9:
+                print(f"{sensor_time:.1f} seconds (sensor)")
+                fire_results.append(sensor_time)
+                return sensor_time
+            else:
+                fire_results.append(ranger_time)
+                return ranger_time
         else:
             print(f"{ranger_time:.1f} seconds (ranger)")
             fire_results.append(ranger_time)

@@ -181,9 +181,6 @@ def point_to_poaching_distance(pt):
     return pt.distance(poaching_union)
 valid_grid['distance_to_poaching_area'] = valid_grid.geometry.centroid.apply(point_to_poaching_distance)
 
-# python
-# Insert this into `GridCreation.py` after you compute rhino_value and the distance columns, before writing files.
-
 V_map = {
     1: 0.43,
     2: 0.49,

@@ -147,7 +147,7 @@ if solution:
         while not routing.IsEnd(index):
             node = manager.IndexToNode(index)
             x, y = all_locations[node]
-            route_coords.append([x, y])  # GeoJSON uses [x, y]
+            route_coords.append([x, y])
 
             index = solution.Value(routing.NextVar(index))
 
